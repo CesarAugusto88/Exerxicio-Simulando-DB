@@ -1,0 +1,7 @@
+C:\Users\Cesar\source\repos\Hello\bin\Debug\Hello.exe.config
+C:\Users\Cesar\source\repos\Hello\bin\Debug\Hello.exe
+C:\Users\Cesar\source\repos\Hello\bin\Debug\Hello.pdb
+C:\Users\Cesar\source\repos\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
+C:\Users\Cesar\source\repos\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\Hello\obj\Debug\Hello.exe
+C:\Users\Cesar\source\repos\Hello\obj\Debug\Hello.pdb
